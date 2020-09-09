@@ -1,0 +1,10 @@
+coffee/UserUpdate.class
+coffee/AbstractEvent$1.class
+coffee/UserRepository.class
+coffee/UserRegisted.class
+coffee/PolicyHandler.class
+coffee/UserController.class
+coffee/User.class
+coffee/config/kafka/KafkaProcessor.class
+coffee/AbstractEvent.class
+coffee/UserApplication.class
